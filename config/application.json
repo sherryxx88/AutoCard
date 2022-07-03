@@ -8,12 +8,12 @@
     },
     "jobs":[
         {
-            "username":"11830048",
-            "password":"wx850918",
+            "username":"***",
+            "password":"***",
             "mail":"***",
             "cron":"0 0 0 * * ? *",
-            "dingtalkurl": "https://oapi.dingtalk.com/robot/send?access_token=baa46f9935c92f04fd58b730c8a2b9ac8f1decc5d645bbcfa5d38ffd0232212a",
-            "dingtalksecret": "SECeb420d0161c895eebe2fc68c0d1c8e365eac8deca90a0df07a13668484d5a4d0",
+            "dingtalkurl": "https://oapi.dingtalk.com/robot/send?access_token=***",
+            "dingtalksecret": "SEC***",
             "delay":true,
             "maxtrial": 3
         },
